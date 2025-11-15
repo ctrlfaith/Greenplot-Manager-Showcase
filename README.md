@@ -85,18 +85,19 @@
 
 ภาพหน้าจอของระบบทั้งหมดสามารถดูได้ในโฟลเดอร์ [`/screenshot`](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot)
 
-- [Landing Page](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Landing%20Page)  
-- [Authentication (Register / Login)](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Authentication)  
-- [Dashboard](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Dashboard)  
-- [Garden Management](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Garden%20Management)  
-- [Plant Management](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Plant%20Management)  
-- [Planting Records](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Planting%20Records)  
-- [Buyer Management](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Buyer%20Management)  
-- [Cost Management](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Cost%20Management)  
-- [Yield Records](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Yield%20Records)  
-- [Reports (Profit & Loss / Harvest Summary)](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Reports)  
-- [Profile Management & LINE Notification Settings](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/Profile%20Management)  
-- [LINE Notifications Examples](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot/LINE%20Notifications) 
+- [Landing Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Landing%20Page)  
+- [Authentication (Register / Login)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Authentication)  
+- [Dashboard](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Dashboard)  
+- [Garden Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Garden%20Management)  
+- [Plant Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Plant%20Management)  
+- [Planting Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Planting%20Records)  
+- [Buyer Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Buyer%20Management)  
+- [Cost Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Cost%20Management)  
+- [Yield Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Yield%20Records)  
+- [Reports (Profit & Loss / Harvest Summary)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Reports)  
+- [Profile Management & LINE Settings](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Profile%20Management)  
+- [LINE Notifications Examples](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/LINE%20Notifications)
+
 
 ---
 
