@@ -83,7 +83,7 @@
 
 ## 📸 ตัวอย่างภาพหน้าจอ
 
-ภาพหน้าจอของระบบทั้งหมดสามารถดูได้ในโฟลเดอร์ [`/screenshot`](https://github.com/ctrlfaith/Greenplot-Manager/tree/main/screenshot)
+ภาพหน้าจอของระบบทั้งหมดสามารถดูได้ในโฟลเดอร์ [`/screenshot`](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot)
 
 - [Landing Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Landing%20Page)  
 - [Authentication (Register / Login)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Authentication)  
