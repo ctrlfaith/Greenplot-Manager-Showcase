@@ -85,19 +85,51 @@
 
 ภาพหน้าจอของระบบทั้งหมดสามารถดูได้ในโฟลเดอร์ [`/screenshot`](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot)
 
-- [Landing Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Landing%20Page)  
-- [Authentication (Register / Login)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Authentication)  
-- [Dashboard](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Dashboard)  
-- [Garden Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Garden%20Management)  
-- [Plant Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Plant%20Management)  
-- [Planting Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Planting%20Records)  
-- [Buyer Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Buyer%20Management)  
-- [Cost Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Cost%20Management)  
-- [Yield Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Yield%20Records)  
-- [Reports (Profit & Loss / Harvest Summary)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Reports)  
-- [Profile Management & LINE Settings](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/Profile%20Management)  
-- [LINE Notifications Examples](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/tree/main/screenshot/LINE%20Notifications)
 
+ภาพหน้าจอบางส่วนจากระบบ GreenPlot:
+
+### 🏠 Landing Page
+![Landing Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Landing%20Page/GreenPlot-Landing-Page.png?raw=true)
+
+### 🔐 หน้าลงทะเบียนและเข้าสู่ระบบ (Authentication)
+![Register Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Authentication/Register-Page.png?raw=true)
+![Login Page](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Authentication/Login-Page.png?raw=true)
+
+### 📊 Dashboard
+![Dashboard Overview](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Dashboard/Overview-Dashboard.png?raw=true)
+
+### 🌾 การจัดการแปลงเพาะปลูก
+![Garden Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Garden%20Management/Garden-Management.png?raw=true)
+
+### 🌱 การจัดการข้อมูลพืช
+![Plant Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Plant%20Management/Plant-Management.png?raw=true)
+
+### 📘 บันทึกการปลูก
+![Planting Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Planting%20Records/Planting-Records-Management.png?raw=true)
+
+### 🛒 ระบบจัดการผู้ซื้อ
+![Buyer Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Buyer%20Management/Buyer-Management.png?raw=true)
+
+### 💰 ระบบบันทึกต้นทุน
+![Cost Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Cost%20Management/Cost-Management.png?raw=true)
+
+### 🧾 ระบบบันทึกผลผลิต
+![Yield Records](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Yield%20Records/Yield-Records-Management.png?raw=true)
+
+### 📈 รายงานสรุปผลผลิต
+![Harvest Summary Report](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Reports/Harvest-Summary-Detailed.png?raw=true)
+
+### 💹 รายงานกำไร–ขาดทุน
+![Profit & Loss Report](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Reports/ProfitLoss-Report-Detailed.png?raw=true)
+
+### 🧩 หน้ารายงานภาพรวม
+![Reports Overview](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Reports/Reports-Overview.png?raw=true)
+
+### 👤 การจัดการโปรไฟล์และตั้งค่า LINE Notify
+![Profile Management](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/Profile%20Management/Profile-Management.png?raw=true)
+
+### 💬 การแจ้งเตือนผ่าน LINE Messaging API
+![LINE Notifications](https://github.com/ctrlfaith/Greenplot-Manager-Showcase/blob/main/screenshot/LINE%20Notifications/line-notifications-events.jpg?raw=true)
 
 ---
 
