@@ -158,7 +158,6 @@
 
 **ชื่อโครงการ:** GreenPlot – ระบบจัดการแปลงเพาะปลูก  
 **ประเภทโครงงาน:** โครงงานจบการศึกษา (Capstone Project)  
-**รายวิชา:** Seminar in Information Technology  
 **สาขา:** เทคโนโลยีสารสนเทศ (Information Technology)  
 **สังกัด:** มหาวิทยาลัยราชภัฏรำไพพรรณี (RBRU)  
 **ภาษาที่ใช้พัฒนา:** PHP (Laravel), HTML, CSS (Tailwind CSS), JavaScript (Alpine.js)
